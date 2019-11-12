@@ -2,8 +2,6 @@
 #include "iostream"
 using namespace std;
 
-#define First 5;
-
 typedef int Status;
 
 void main()
@@ -20,8 +18,7 @@ void main()
 	text.GetElem(5, aaa);
 	cout << aaa;
 	//text.~SeqList();
-              
-               cout<<First;
+
 }
 
 
