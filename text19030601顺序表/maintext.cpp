@@ -4,7 +4,11 @@ using namespace std;
 
 typedef int Status;
 
+
 #define Second 2;
+
+#define First 1;
+
 
 void main()
 {
@@ -21,7 +25,11 @@ void main()
 	cout << aaa;
 	//text.~SeqList();
 
+
                 cout<<Second;
+
+               cout<<First;
+
 }
 
 
