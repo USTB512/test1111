@@ -4,6 +4,8 @@ using namespace std;
 
 typedef int Status;
 
+#define First 1;
+
 void main()
 {
 	int number[10];
@@ -19,6 +21,7 @@ void main()
 	cout << aaa;
 	//text.~SeqList();
 
+               cout<<First;
 }
 
 
