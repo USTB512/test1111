@@ -24,6 +24,7 @@ void main()
 	text.GetElem(5, aaa);
 	cout << aaa;
 	//text.~SeqList();
+                cout<<111;
 
 
                 cout<<Second;
